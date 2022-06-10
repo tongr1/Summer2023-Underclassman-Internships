@@ -7,7 +7,7 @@ Lastly, best of luck on your internship search!
 
 
 | Program Name | Grade Level | Location | Status |
-|--------------------|----------|----------|----------|
+|----------------------------------------   |----------|--------------------|--------------------|
 | Activision | Freshman/Sophomore | | Not open |
 | Amazon Propel Program | Freshman/Sophomore | | Not open |
 | Bank of America Freshman Analyst | Freshman | | Not open |
