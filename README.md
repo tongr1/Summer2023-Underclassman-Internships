@@ -16,7 +16,7 @@ Lastly, best of luck on your internship search!
 | [Deloitte Discovery Intern (Freshman) - Summer 2023 (Colorado)](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023-Colorado/106388) | Freshman | Denver, Colorado | Open |
 | [Deloitte Discovery Intern (Sophomore) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Discovery-Intern-Sophomore-Summer-2023/93777) | Freshman/Sophomore | Multiple Locations | Open |
 | [D. E. Shaw Research Early-College Internships](https://www.deshawresearch.com/joining_summerinternships.html) | Freshman | | Not open |
-| [D. E. Shaw Research Senior Internship Program\(https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Not open |
+| [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Not open |
 | Dropbox Launch | Sophomore | | Not open |
 | Duolingo Thrive | Sophomore | | Not open |
 | [Explore Microsoft](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman/Sophomore | | Not open |
