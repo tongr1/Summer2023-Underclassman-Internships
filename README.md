@@ -27,8 +27,10 @@ Lastly, best of luck on your internship search!
 | [Microsoft New Technologist](https://newtechnologists.com/) | Freshman/Sophomore |Remote | Not open |
 | Morgan Stanley 2023 Quantitative Finance Sophomore Summer Analyst Program | Sophomore | New York | Closed |
 | NVIDIA Ignite | Freshman/Sophomore | | Not open |
-| Oracle | Freshman/Sophomore | | Not open |
-| P&G Information Technology Emerging Leaders Sophomore | Sophomore | Cincinnati, Ohio | Closed |
+| [Oracle Software Engineer Intern - Sophomore - OCI and Cloud Platforms](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/175714/?keyword=intern&location=United+States&locationId=300000000149325&locationLevel=country) | Sophomore | | Open |
+| [Oracle Technical Intern - Second Year](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/174068/?keyword=intern&location=United+States&locationId=300000000149325&locationLevel=country) | Sophomore | | Open |
+| [P&G Information Technology Emerging Leaders Sophomore](https://www.pgcareers.com/job/cincinnati/information-technology-emerging-leaders-2024-internship-sophomore/936/32401868752) | Sophomore | Cincinnati, Ohio | Open |
+| [P&G Engineering Emerging Leaders Sophomore](https://www.pgcareers.com/job/cincinnati/engineer-emerging-leaders-2024-internship-sophomores/936/32584258608) | Sophomore | Cincinnati, Ohio | Open |
 | Raytheon TechStudent-Freshman | Freshman | | Not open |
 | Twitter Academy | Sophomore | | Not open |
 | Two Sigma Freshman Analyst | Freshman | | Not open |
