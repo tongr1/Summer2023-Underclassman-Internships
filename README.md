@@ -11,6 +11,7 @@ Lastly, best of luck on your internship search!
 | Activision Summer Technical Internships | Freshman/Sophomore | | Not open |
 | Amazon Propel Program | Freshman/Sophomore | | Not open |
 | Bank of America Freshman Analyst | Freshman | | Not open |
+| Blizzard | Freshman/Sophomore | | Not open |
 | [Credit Suisse 2023 Americas Technology Advance Sophomore Summer Analyst Program](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213381&lang=en) | Sophomore | | Open |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023/106383) | Freshman | Multiple Locations | Open |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023 (Colorado)](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023-Colorado/106388) | Freshman | Denver, Colorado | Open |
