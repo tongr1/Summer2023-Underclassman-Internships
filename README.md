@@ -20,7 +20,7 @@ Lastly, best of luck on your internship search!
 | [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Not open |
 | Dropbox Launch | Sophomore | | Not open |
 | Duolingo Thrive | Sophomore | | Not open |
-| [Explore Microsoft](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman/Sophomore | | Not open |
+| [Explore Microsoft](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman/Sophomore | | Open |
 | Facebook University | Freshman/Sophomore | | Not open |
 | Ford | Freshman | | Not open |
 | Google STEP | Freshman/Sophomore | | Not open |
