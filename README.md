@@ -20,7 +20,7 @@ Lastly, best of luck on your internship search!
 | [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Not open |
 | Dropbox Launch | Sophomore | | Not open |
 | Duolingo Thrive | Sophomore | | Not open |
-| [Explore Microsoft](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman/Sophomore | | Not open |
+| [Explore Microsoft](https://careers.microsoft.com/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Freshman/Sophomore | | Open |
 | Facebook University | Freshman/Sophomore | | Not open |
 | Ford | Freshman | | Not open |
 | Google STEP | Freshman/Sophomore | | Not open |
@@ -30,7 +30,7 @@ Lastly, best of luck on your internship search!
 | NVIDIA Ignite | Freshman/Sophomore | | Not open |
 | [Oracle Software Engineer Intern - Sophomore - OCI and Cloud Platforms](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/175714/?keyword=intern&location=United+States&locationId=300000000149325&locationLevel=country) | Sophomore | | Open |
 | [Oracle Technical Intern - Second Year](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/174068/?keyword=intern&location=United+States&locationId=300000000149325&locationLevel=country) | Sophomore | | Open |
-| [P&G Information Technology Emerging Leaders Sophomore](https://www.pgcareers.com/job/cincinnati/information-technology-emerging-leaders-2024-internship-sophomore/936/32401868752) | Sophomore | Cincinnati, Ohio | Open |
+| P&G Information Technology Emerging Leaders Sophomore | Sophomore | Cincinnati, Ohio | Closed |
 | [P&G Engineering Emerging Leaders Sophomore](https://www.pgcareers.com/job/cincinnati/engineer-emerging-leaders-2024-internship-sophomores/936/32584258608) | Sophomore | Cincinnati, Ohio | Open |
 | Raytheon TechStudent-Freshman | Freshman | | Not open |
 | Twitter Academy | Sophomore | | Not open |
