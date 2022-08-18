@@ -29,7 +29,7 @@ Lastly, best of luck on your internship search!
 | Morgan Stanley 2023 Quantitative Finance Sophomore Summer Analyst Program | Sophomore | New York | Closed |
 | NVIDIA Ignite | Freshman/Sophomore | | Not open |
 | [Oracle Software Engineer Intern - Sophomore - OCI and Cloud Platforms](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/175714/?keyword=intern&location=United+States&locationId=300000000149325&locationLevel=country) | Sophomore | | Open |
-| [Oracle Technical Intern - Second Year](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/174068/?keyword=intern&location=United+States&locationId=300000000149325&locationLevel=country) | Sophomore | | Open |
+| Oracle Technical Intern - Second Year | Sophomore | | Closed |
 | P&G Information Technology Emerging Leaders Sophomore | Sophomore | Cincinnati, Ohio | Closed |
 | [P&G Engineering Emerging Leaders Sophomore](https://www.pgcareers.com/job/cincinnati/engineer-emerging-leaders-2024-internship-sophomores/936/32584258608) | Sophomore | Cincinnati, Ohio | Open |
 | Raytheon TechStudent-Freshman | Freshman | | Not open |
