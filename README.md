@@ -35,4 +35,4 @@ Lastly, best of luck on your internship search!
 | Raytheon TechStudent-Freshman | Freshman | | Not open |
 | Twitter Academy | Sophomore | | Not open |
 | Two Sigma Freshman Analyst | Freshman | | Not open |
-| UberSTAR internship program | Freshman/Sophomore | | Not open |
+| [UberSTAR internship program](https://university-uber.icims.com/jobs/116956/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Freshman/Sophomore | | Open |
