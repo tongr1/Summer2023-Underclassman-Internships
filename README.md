@@ -10,6 +10,7 @@ Lastly, best of luck on your internship search!
 |----------------------------------------   |----------|--------------------|--------------------|
 | Activision Summer Technical Internships | Freshman/Sophomore | | Not open |
 | Amazon Propel Program | Freshman/Sophomore | | Not open |
+| [Amazon SDE Internship Program](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) (Automatically considered for APP, and some underclassmen got in, so recommend applying) | Freshman/Sophomore/Junior | | Open |
 | Bank of America Freshman Analyst | Freshman | | Not open |
 | Blizzard | Freshman/Sophomore | | Not open |
 | [Credit Suisse 2023 Americas Technology Advance Sophomore Summer Analyst Program](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213381&lang=en) | Sophomore | | Open |
