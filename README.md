@@ -12,7 +12,7 @@ Lastly, best of luck on your internship search!
 | Amazon Propel Program | Freshman/Sophomore | | Not open |
 | [Amazon SDE Internship Program](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) (Automatically considered for APP, and some underclassmen got in, so recommend applying) | Freshman/Sophomore/Junior | | Open |
 | Bank of America Freshman Analyst | Freshman | | Not open |
-| Bank of America Global Technology Sophomore Summer Analyst Program | Sophomore | Charlotte, NC | Open |
+| [Bank of America Global Technology Sophomore Summer Analyst Program](https://campus.bankofamerica.com/careers/global_technology_sophomore_summer_analyst_program__2023.html) | Sophomore | Charlotte, NC | Open |
 | Blizzard | Freshman/Sophomore | | Not open |
 | [Credit Suisse 2023 Americas Technology Advance Sophomore Summer Analyst Program](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213381&lang=en) | Sophomore | | Open |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023/106383) | Freshman | Multiple Locations | Open |
