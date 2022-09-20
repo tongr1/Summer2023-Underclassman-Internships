@@ -12,19 +12,21 @@ Lastly, best of luck on your internship search!
 | Amazon Propel Program | Freshman/Sophomore | | Not open |
 | [Amazon SDE Internship Program](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) (Automatically considered for APP, and some underclassmen got in, so recommend applying) | Freshman/Sophomore/Junior | | Open |
 | Bank of America Freshman Analyst | Freshman | | Not open |
+| Bank of America Global Technology Sophomore Summer Analyst Program | Sophomore | Charlotte, NC | Open |
 | Blizzard | Freshman/Sophomore | | Not open |
 | [Credit Suisse 2023 Americas Technology Advance Sophomore Summer Analyst Program](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213381&lang=en) | Sophomore | | Open |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023/106383) | Freshman | Multiple Locations | Open |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023 (Colorado)](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023-Colorado/106388) | Freshman | Denver, Colorado | Open |
 | [Deloitte Discovery Intern (Sophomore) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Discovery-Intern-Sophomore-Summer-2023/93777) | Freshman/Sophomore | Multiple Locations | Open |
-| [D. E. Shaw Research Early-College Internships](https://www.deshawresearch.com/joining_summerinternships.html) | Freshman | | Not open |
-| [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Not open |
+| [D. E. Shaw Research Early-College Internships](https://www.deshawresearch.com/joining_summerinternships.html) | Freshman | | Open |
+| [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Open |
 | Dropbox Launch | Sophomore | | Not open |
 | Duolingo Thrive | Sophomore | | Not open |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Freshman/Sophomore | | Open |
 | Facebook University | Freshman/Sophomore | | Not open |
 | Ford | Freshman | | Not open |
-| Google STEP | Freshman/Sophomore | | Not open |
+| [Google STEP, First-Year Student](https://careers.google.com/jobs/results/123387565928522438/) | Freshman | | Open |
+| [Google STEP, Second-Year Student](https://careers.google.com/jobs/results/105373167419040454/) | Sophomore | | Open |
 | [IBM Accelerate](https://www.ibm.com/employment/accelerate/) | Freshman/Sophomore | | Not open, register interest |
 | [Microsoft New Technologist](https://newtechnologists.com/) | Freshman/Sophomore |Remote | Not open |
 | Morgan Stanley 2023 Quantitative Finance Sophomore Summer Analyst Program | Sophomore | New York | Closed |
