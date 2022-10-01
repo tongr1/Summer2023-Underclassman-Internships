@@ -12,7 +12,7 @@ Lastly, best of luck on your internship search!
 | Amazon Propel Program | Freshman/Sophomore | | Not open |
 | [Amazon SDE Internship Program](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) (Automatically considered for APP, and some underclassmen got in, so recommend applying) | Freshman/Sophomore/Junior | | Open |
 | Bank of America Freshman Analyst | Freshman | | Not open |
-| [Bank of America Global Technology Sophomore Summer Analyst Program](https://campus.bankofamerica.com/careers/global_technology_sophomore_summer_analyst_program__2023.html) | Sophomore | Charlotte, NC | Open |
+| Bank of America Global Technology Sophomore Summer Analyst Program | Sophomore | Charlotte, NC | Closed |
 | Blizzard | Freshman/Sophomore | | Not open |
 | [Credit Suisse 2023 Americas Technology Advance Sophomore Summer Analyst Program](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213381&lang=en) | Sophomore | | Open |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023/106383) | Freshman | Multiple Locations | Open |
@@ -30,7 +30,7 @@ Lastly, best of luck on your internship search!
 | [IBM Accelerate](https://www.ibm.com/employment/accelerate/) | Freshman/Sophomore | | Not open, register interest |
 | [Microsoft New Technologist](https://newtechnologists.com/) | Freshman/Sophomore |Remote | Not open |
 | Morgan Stanley 2023 Quantitative Finance Sophomore Summer Analyst Program | Sophomore | New York | Closed |
-| NVIDIA Ignite | Freshman/Sophomore | | Not open |
+| [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman/Sophomore | | Open |
 | [Oracle Software Engineer Intern - Sophomore - OCI and Cloud Platforms](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/181045/?keyword=intern+sophomore&location=United+States&locationId=300000000149325&locationLevel=country) | Sophomore | | Open |
 | Oracle Technical Intern - Second Year | Sophomore | | Closed |
 | P&G Information Technology Emerging Leaders Sophomore | Sophomore | Cincinnati, Ohio | Closed |
