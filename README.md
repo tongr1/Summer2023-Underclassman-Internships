@@ -21,7 +21,7 @@ Lastly, best of luck on your internship search!
 | [D. E. Shaw Research Early-College Internships](https://www.deshawresearch.com/joining_summerinternships.html) | Freshman | | Open |
 | [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Open |
 | Dropbox Launch | Sophomore | | Not open |
-| Duolingo Thrive | Sophomore | | Not open |
+| [Duolingo Thrive](https://boards.greenhouse.io/duolingo/jobs/6415422002) | Sophomore | Pittsburgh, PA | Not open |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Freshman/Sophomore | | Open |
 | Facebook University | Freshman/Sophomore | | Not open |
 | Ford | Freshman | | Not open |
@@ -38,4 +38,4 @@ Lastly, best of luck on your internship search!
 | Raytheon TechStudent-Freshman | Freshman | | Not open |
 | Twitter Academy | Sophomore | | Not open |
 | Two Sigma Freshman Analyst | Freshman | | Not open |
-| [UberSTAR internship program](https://university-uber.icims.com/jobs/116956/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) | Freshman/Sophomore | San Francisco, California | Open |
+| UberSTAR internship program | Freshman/Sophomore | San Francisco, California | Closed |
