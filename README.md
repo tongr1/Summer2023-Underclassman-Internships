@@ -21,7 +21,7 @@ Lastly, best of luck on your internship search!
 | [D. E. Shaw Research Early-College Internships](https://www.deshawresearch.com/joining_summerinternships.html) | Freshman | | Open |
 | [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Open |
 | Dropbox Launch | Sophomore | | Not open |
-| [Duolingo Thrive](https://boards.greenhouse.io/duolingo/jobs/6415422002) | Sophomore | Pittsburgh, PA | Not open |
+| [Duolingo Thrive](https://boards.greenhouse.io/duolingo/jobs/6415422002) | Sophomore | Pittsburgh, PA | Open |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Freshman/Sophomore | | Open |
 | Facebook University | Freshman/Sophomore | | Not open |
 | Ford | Freshman | | Not open |
