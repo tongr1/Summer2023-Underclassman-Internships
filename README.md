@@ -14,19 +14,19 @@ Lastly, best of luck on your internship search!
 | Bank of America Freshman Analyst | Freshman | | Not open |
 | Bank of America Global Technology Sophomore Summer Analyst Program | Sophomore | Charlotte, NC | Closed |
 | Blizzard | Freshman/Sophomore | | Not open |
-| [Credit Suisse 2023 Americas Technology Advance Sophomore Summer Analyst Program](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213381&lang=en) | Sophomore | | Open |
+| Credit Suisse 2023 Americas Technology Advance Sophomore Summer Analyst Program | Sophomore | | Closed |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023/106383) | Freshman | Multiple Locations | Open |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023 (Colorado)](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023-Colorado/106388) | Freshman | Denver, Colorado | Open |
-| [Deloitte Discovery Intern (Sophomore) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Discovery-Intern-Sophomore-Summer-2023/93777) | Freshman/Sophomore | Multiple Locations | Open |
+| Deloitte Discovery Intern (Sophomore) - Summer 2023 | Freshman/Sophomore | Multiple Locations | Closed |
 | [D. E. Shaw Research Early-College Internships](https://www.deshawresearch.com/joining_summerinternships.html) | Freshman | | Open |
 | [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Open |
 | Dropbox Launch | Sophomore | | Not open |
-| [Duolingo Thrive](https://boards.greenhouse.io/duolingo/jobs/6415422002) | Sophomore | Pittsburgh, PA | Open |
+| Duolingo Thrive | Sophomore | Pittsburgh, PA | Closed |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Freshman/Sophomore | | Open |
 | Facebook University | Freshman/Sophomore | | Not open |
 | Ford | Freshman | | Not open |
-| [Google STEP, First-Year Student](https://careers.google.com/jobs/results/123387565928522438/) | Freshman | | Open |
-| [Google STEP, Second-Year Student](https://careers.google.com/jobs/results/105373167419040454/) | Sophomore | | Open |
+| Google STEP, First-Year Student | Freshman | | Closed |
+| Google STEP, Second-Year Student | Sophomore | | Closed |
 | [IBM Accelerate](https://www.ibm.com/employment/accelerate/) | Freshman/Sophomore | | Not open, register interest |
 | [Microsoft New Technologist](https://newtechnologists.com/) | Freshman/Sophomore |Remote | Not open |
 | Morgan Stanley 2023 Quantitative Finance Sophomore Summer Analyst Program | Sophomore | New York | Closed |
@@ -34,7 +34,7 @@ Lastly, best of luck on your internship search!
 | [Oracle Software Engineer Intern - Sophomore - OCI and Cloud Platforms](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/181045/?keyword=intern+sophomore&location=United+States&locationId=300000000149325&locationLevel=country) | Sophomore | | Open |
 | Oracle Technical Intern - Second Year | Sophomore | | Closed |
 | P&G Information Technology Emerging Leaders Sophomore | Sophomore | Cincinnati, Ohio | Closed |
-| [P&G Engineering Emerging Leaders Sophomore](https://www.pgcareers.com/job/cincinnati/engineer-emerging-leaders-2024-internship-sophomores/936/32584258608) | Sophomore | Cincinnati, Ohio | Open |
+| P&G Engineering Emerging Leaders Sophomore | Sophomore | Cincinnati, Ohio | Closed |
 | Raytheon TechStudent-Freshman | Freshman | | Not open |
 | Twitter Academy | Sophomore | | Not open |
 | Two Sigma Freshman Analyst | Freshman | | Not open |
