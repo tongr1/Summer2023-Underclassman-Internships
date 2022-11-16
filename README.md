@@ -13,7 +13,7 @@ Lastly, best of luck on your internship search!
 | [Amazon SDE Internship Program](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) (Automatically considered for APP, and some underclassmen got in, so recommend applying) | Freshman/Sophomore/Junior | | Open |
 | Bank of America Freshman Analyst | Freshman | | Not open |
 | Bank of America Global Technology Sophomore Summer Analyst Program | Sophomore | Charlotte, NC | Closed |
-| [Bank of America Wealth Management Rising Sophomore Summer Analyst Program](https://campus.bankofamerica.com/careers/wealth_management_rising_sophomore_summer_analyst_program__private_bank_2023.html) | Freshman | | Open |
+| [Bank of America Wealth Management Rising Sophomore Summer Analyst Program](https://campus.bankofamerica.com/careers/wealth_management_rising_sophomore_summer_analyst_program__private_bank_2023.html) | Freshman | New York, NY; Boston, MA | Open |
 | Blizzard | Freshman/Sophomore | | Not open |
 | Credit Suisse 2023 Americas Technology Advance Sophomore Summer Analyst Program | Sophomore | | Closed |
 | [Deloitte Discovery Intern (Freshman) - Summer 2023](https://apply.deloitte.com/careers/JobDetail/Discovery-Intern-Freshman-Summer-2023/106383) | Freshman | Multiple Locations | Open |
