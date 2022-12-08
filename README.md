@@ -37,5 +37,5 @@ Lastly, best of luck on your internship search!
 | P&G Engineering Emerging Leaders Sophomore | Sophomore | Cincinnati, Ohio | Closed |
 | Raytheon TechStudent-Freshman | Freshman | | Not open |
 | Twitter Academy | Sophomore | | Not open |
-| Two Sigma Freshman Analyst | Freshman | | Not open |
+| [Two Sigma Freshman Analyst](https://careers.twosigma.com/careers/Careers?jobId=11012&source=Conference&tags=rtc+2022+job+board) | Freshman | | Open |
 | UberSTAR internship program | Freshman/Sophomore | San Francisco, California | Closed |
