@@ -22,12 +22,12 @@ Lastly, best of luck on your internship search!
 | [D. E. Shaw Research Senior Internship Program](https://www.deshawresearch.com/joining_summerinternships.html) | Sophomore | | Open |
 | Dropbox Launch | Sophomore | | Not open |
 | Duolingo Thrive | Sophomore | Pittsburgh, PA | Closed |
-| [Explore Microsoft](https://careers.microsoft.com/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Freshman/Sophomore | | Open |
-| Facebook University | Freshman/Sophomore | | Not open |
+| Explore Microsoft | Freshman/Sophomore | | Closed |
+| [Facebook University](https://www.metacareers.com/careerprograms/pathways/metauniversity#communityops) | Freshman/Sophomore | | Open |
 | Ford | Freshman | | Not open |
 | Google STEP, First-Year Student | Freshman | | Closed |
 | Google STEP, Second-Year Student | Sophomore | | Closed |
-| [IBM Accelerate](https://www.ibm.com/employment/accelerate/) | Freshman/Sophomore | | Not open, register interest |
+| [IBM Accelerate](https://careers.ibm.com/job/17568225/2023-ibm-accelerate-program-remote/?codes=IBM_CareerWebSite) | Freshman/Sophomore | | Open |
 | [Microsoft New Technologist](https://newtechnologists.com/) | Freshman/Sophomore |Remote | Not open |
 | Morgan Stanley 2023 Quantitative Finance Sophomore Summer Analyst Program | Sophomore | New York | Closed |
 | [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman/Sophomore | | Open |
